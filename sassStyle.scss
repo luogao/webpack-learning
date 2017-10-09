@@ -1,0 +1,24 @@
+html,body{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    color: #636b6f;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    background: #502424;
+    font-size:150px;
+}
+
+h1{
+    font-weight: 100;
+    font-size:150px;
+
+    p{
+        display: inline;
+    }
+}
